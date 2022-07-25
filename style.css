@@ -1,0 +1,14 @@
+html{
+    background-color: lightblue;
+    font-family: sans-serif;
+}
+body{
+    width: 800px;
+    margin: 0px auto;
+}
+img{
+    display: block;
+    margin: 30px auto;
+    border-radius: 20px;
+    box-shadow: 5px 8px 20px;
+}
